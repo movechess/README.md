@@ -52,6 +52,7 @@ When the game is over, the winner gets their staked funds back, minus some fees.
 **Deploy Instruction**
 
 README: https://github.com/movechess/movechesscontract/blob/main/README.md
-MoveChess Smart-Contracts: 
+
+MoveChess Smart-Contracts: 5CRDBTruY3hLTCQmn7MTnULpL3ALXLMEUWLDa826hyFftKkK
 
 
