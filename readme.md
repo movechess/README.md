@@ -23,12 +23,13 @@ Based on the image above, we will implement on-chain activities of MoveChess. Th
 <img width="817" alt="Screenshot 2023-10-29 at 10 04 19" src="https://github.com/movechess/README.md/assets/143335690/145ab766-3ceb-4690-be05-1b1c2e694671">
 
 **Technology and Architecture**			
-1. On-chain NFT Achivement
-2. 02 DAILY QUIZZES
-3. MCMs
-4. TOURNAMENTS
-5. SKIN STORE
-6. ARBITERS
+1. Cross-platform Plays
+2. On-chain NFT Achivement
+3. 02 DAILY QUIZZES
+4. MCMs
+5. TOURNAMENTS
+6. SKIN STORE
+7. ARBITERS
 
 **SMART CONTRACT DESIGN**
 <img width="950" alt="Screenshot 2023-10-29 at 10 05 38" src="https://github.com/movechess/README.md/assets/143335690/01031119-ac95-4a68-b015-432a85385d43">
@@ -51,7 +52,7 @@ When the game is over, the winner gets their staked funds back, minus some fees.
 
 **Deploy Instruction**
 
-README: https://github.com/movechess/movechesscontract/blob/main/README.md
+README: https://github.com/movechess/movechess-smc/blob/main/README.md
 
 MoveChess Smart-Contracts: 5CRDBTruY3hLTCQmn7MTnULpL3ALXLMEUWLDa826hyFftKkK
 
